@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **RAG**
 
-- 🌱 I’m currently learning **Artificial intelligence**
+- 🌱 I’m currently learning **Explainable AI**
 
-- 💬 Ask me about **Datascience**
+- 💬 Ask me about **Embedded Machine learning**
 
 - 📫 How to reach me **valupadasurevanth@gmail.com**
 
